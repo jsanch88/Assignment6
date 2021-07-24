@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment6", "Assignment6.csproj", "{95F6201E-1E84-46FC-9732-F9AC162A8CD8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{284B8F00-02AF-4AE5-83E3-13351A241B11}"
+	ProjectSection(SolutionItems) = preProject
+		Images\Episode-20-happy-fairy-tail-10932305-1276-720.jpg = Images\Episode-20-happy-fairy-tail-10932305-1276-720.jpg
+		Images\text fairy tail anime happy fairy tail_www.animalhi.com_19.jpg = Images\text fairy tail anime happy fairy tail_www.animalhi.com_19.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95F6201E-1E84-46FC-9732-F9AC162A8CD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F6201E-1E84-46FC-9732-F9AC162A8CD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F6201E-1E84-46FC-9732-F9AC162A8CD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F6201E-1E84-46FC-9732-F9AC162A8CD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6CD163D-AACB-4525-AB9D-5A59D249A854}
+	EndGlobalSection
+EndGlobal
