@@ -14,6 +14,7 @@
             Username:
         </Label>
         <TextBox
+            x:Name="Username"
             FontSize="30"
             Margin="15"
             AcceptsReturn="True"
@@ -26,6 +27,7 @@
             Password:
         </Label>
         <PasswordBox
+            x:Name="Password"
             FontSize="30"
             Margin="15"
             PasswordChar="*"

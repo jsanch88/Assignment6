@@ -33,7 +33,10 @@ namespace Assignment6
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Successful login!");
+            string UserName = Username.Text;
+            MessageBox.Show("Successful login!", "Login", MessageBoxButton.OK, MessageBoxImage.Information);
+
+            MessageBox.Show("Welcome " + UserName, "Welcome user");
         }
     }
 }
